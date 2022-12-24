@@ -1,2 +1,2 @@
-# Estudos
-Minha pasta de tudo o que estou estudando no momento + meus exercícios :D
+# DIO - Estudos
+Pasta de estudos do curso: "Primeiros Passos em Tecnologia" da Dio;

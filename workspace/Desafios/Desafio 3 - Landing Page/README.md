@@ -2,4 +2,4 @@
 
 
 
-![LandingPage](C:\Users\amand\Desktop\Estudos-Amanda\001 - T.I\003 - Estudos\DIO\workspace\Desafios\Desafio 3 - Landing Page\assets\imagess\LandingPage.png)
+![LandingPage](https://user-images.githubusercontent.com/95727612/210880825-11336b0b-7d38-4fce-87b7-0a19cbadfc9d.png)

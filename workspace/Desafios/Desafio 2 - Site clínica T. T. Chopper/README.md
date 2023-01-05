@@ -1,5 +1,3 @@
 # Site Completo Clínica T. T. Chopper!
 
-
-
-![SiteCompleto](C:\Users\amand\Desktop\Estudos-Amanda\001 - T.I\003 - Estudos\DIO\workspace\Desafios\Desafio 2 - Site clínica T. T. Chopper\assets\mídias\SiteCompleto.png)
+![imagem_2023-01-05_180937342](https://user-images.githubusercontent.com/95727612/210880439-ef711a70-a2a5-4cce-8563-3e5a8ea2d19a.png)

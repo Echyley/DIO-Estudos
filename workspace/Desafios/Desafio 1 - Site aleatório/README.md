@@ -1,3 +1,3 @@
 # Site Aleatório - Jogos Indie
 
-![SiteAleatório](C:\Users\amand\Desktop\Estudos-Amanda\001 - T.I\003 - Estudos\DIO\workspace\Desafios\Desafio 1 - Site aleatório\mídias\SiteAleatório.png)
+![SiteAleatório](https://user-images.githubusercontent.com/95727612/210877969-f1986c51-7863-4a17-8bae-8950914fae0d.png)

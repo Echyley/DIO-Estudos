@@ -1,2 +1,2 @@
 # DIO - Estudos
-Pasta de estudos do curso: "Primeiros Passos em Tecnologia" da Dio;
+Pasta de estudos dos meus cursos da Dio!
